@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio-site/static/css/main.1e66d1c7.css",
+    "main.js": "/portfolio-site/static/js/main.8c707979.js",
+    "static/js/787.f3d7924f.chunk.js": "/portfolio-site/static/js/787.f3d7924f.chunk.js",
+    "static/media/NeoEdu.png": "/portfolio-site/static/media/NeoEdu.2b5be22c7db1b075776d.png",
+    "static/media/theskyspace_about.png": "/portfolio-site/static/media/theskyspace_about.39776d9f4bb771c03c27.png",
+    "static/media/NDA.png": "/portfolio-site/static/media/NDA.6101cd600c1b79d71baa.png",
+    "static/media/finmom.png": "/portfolio-site/static/media/finmom.e3fe8b1934632d57a7d2.png",
+    "static/media/resume.pdf": "/portfolio-site/static/media/resume.188dd7056070efd53eca.pdf",
+    "index.html": "/portfolio-site/index.html",
+    "main.1e66d1c7.css.map": "/portfolio-site/static/css/main.1e66d1c7.css.map",
+    "main.8c707979.js.map": "/portfolio-site/static/js/main.8c707979.js.map",
+    "787.f3d7924f.chunk.js.map": "/portfolio-site/static/js/787.f3d7924f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e66d1c7.css",
+    "static/js/main.8c707979.js"
+  ]
+}
