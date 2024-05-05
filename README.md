@@ -1,4 +1,4 @@
-<div align="center"><h1>Hello👋, I'm Akash and this is my portfolio site.</h1></div>
+<div align="center"><h1>Hello👋, I'm Keyur and this is my portfolio site.</h1></div>
 
 # Getting Started
 
